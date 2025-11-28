@@ -8,7 +8,8 @@ const hello = 'hello'; // NON MODIFICARE QUESTA RIGA
 // il carattere Y nella variabile city
 const cityIndex = 0;
 console.log(cityIndex); // Output: 4
-
+console.log("New York".charAt(4))
+console.log()
 // 2. Sottostringhe 
 // Stampa la sottostringa "York" dalla variabile city
 const citySubstring = '';
